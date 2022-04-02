@@ -1,8 +1,71 @@
-### Hi there 👋 I'm Josef
+# Hi there :wave:
+
+I'm a fullstack developer from the Czech republic, passionate about web3, decentralization, sustainable energy and more.
+<br/> I work as a senior fullstack web developer at [Moralis Web3](https://moralis.io), study CS at [Prague University of Economics and Business](https://www.vse.cz/english/) and am learning Solidity and Rust.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vacekj&show_icons=true&line_height=27&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💪🏻  Senior Fullstack Web Developer at Moralis Web3
-- 🔭  In my free time I develop a Czech cryptocurrency and blockchain education platform, among other things.
-- 🌱  I’m currently learning Apple Development - SwiftUI.
-- 📫  How to reach me: vacekj at outlook dot com
+<hr>
+
+## Employment history
+- Extensible Google Drive used by AWS, US Navy @ [3PillarGlobal](https://www.3pillarglobal.com/)
+- Student->Teacher rating system @ [Abradatas](https://abradatas.cz/)
+- Instagram Private API data scraper @ emilia.digital
+- Teacher absence monitoring system @ Olomouc Grammar School Hejcin
+
+## Side-projects
+- [express-json-validator-middleware](https://github.com/simonplend/express-json-validator-middleware) - creator and maintainer
+- NeuroCards - like Anki but with great UX and an algo that adapts to your brain 🔜
+- DClutter - know what you own, reduce clutter and track lendings 🔜
+- Web3Love - send (love) letters on the blockchain 🔜
+- [Timesaver](https://timesaver.vercel.app/) - watch movies faster without losing context
+- [KryptoKurzy.cz](https://kryptokurzy.cz) - teaching the Czech public about web3
+- [Competent Programmer](https://competentprogrammer.vercel.app/) - visualize your competency as a programmer
+
+## My skills 📜
+
+### 🕸 Web stack
+- Typescript
+- Next.js
+- Nest.js
+- Prisma
+- Firebase
+- Supabase
+- Strapi
+- React
+- Redux
+- Styled Components
+- Cypress
+- Puppeteer
+- Node.js
+- Deno
+- MySQL
+- Postgres
+- SQL
+- TailwindCSS
+  
+### Ξ Blockchain development
+- Solidity (learning)
+- web3.js
+- Moralis
+- Foundry
+- Rust
+
+### 🍎 Apple development
+- Swift
+- SwiftUI
+  
+### Misc
+- Advanced Git
+- Unix admininistration
+- Dokku
+- C#
+
+
+### Spoken languages 🌍
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | C2 (Cambridge certified)                                                  |
+| Spanish       | B1                                                                        |
+| Czech         | Native language                                                           |
