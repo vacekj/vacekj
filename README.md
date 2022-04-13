@@ -7,6 +7,9 @@ I'm a fullstack developer from the Czech republic, passionate about web3, decent
 
 <hr>
 
+<details>
+  <summary> Click for more</summary>
+
 ## Employment history
 - Forest trees auctioned off as NFTs @ [Decentree](https://decentree.com). Coming 🔜.
 - Extensible Google Drive used by AWS, US Navy @ [3PillarGlobal](https://www.3pillarglobal.com/)
@@ -70,3 +73,6 @@ I'm a fullstack developer from the Czech republic, passionate about web3, decent
 | English       | C2 (Cambridge certified)                                                  |
 | Spanish       | B1                                                                        |
 | Czech         | Native language                                                           |
+  
+  </details>
+
