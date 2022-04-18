@@ -12,17 +12,18 @@ I'm a fullstack developer from the Czech republic, passionate about web3, decent
 
 ## Employment history
 - Forest trees auctioned off as NFTs @ [Decentree](https://decentree.com). Coming 🔜.
-- Extensible Google Drive used by AWS, US Navy @ [3PillarGlobal](https://www.3pillarglobal.com/)
+- Extensible Google Drive clone used by AWS, US Navy @ [3PillarGlobal](https://www.3pillarglobal.com/)
 - Student->Teacher rating system @ [Abradatas](https://abradatas.cz/)
 - Instagram Private API data scraper @ emilia.digital
-- Teacher absence monitoring system @ Olomouc Grammar School Hejcin
+- Teacher absence monitoring system @ biggest grammar school in the Czech Republic
 
 ## Side-projects
+- [uklid](https://crates.io/crates/uklid) - nuke those huge node_modules folders with an interactive CLI
+- Web3Love - send (love) letters on the blockchain 🔜
 - [express-json-validator-middleware](https://github.com/simonplend/express-json-validator-middleware) - creator and former maintainer
 - NeuroCards - like Anki but with great UX and an algo that adapts to your brain 🔜
 - DClutter - know what you own, reduce clutter and track lendings 🔜
-- Web3Love - send (love) letters on the blockchain 🔜
-- [Luftio](https://luftio.cz/) SwiftUI App - monitor your air quality on your iPhone, Mac and Apple Watch.
+- [Luftio](https://luftio.cz/) SwiftUI App - monitor your air quality on your iPhone, iPad, Mac and Apple Watch.
 - [Timesaver](https://timesaver.vercel.app/) - watch movies faster without losing context
 - [KryptoKurzy.cz](https://kryptokurzy.cz) - teaching the Czech public about web3
 - [Competent Programmer](https://competentprogrammer.vercel.app/) - visualize your competency as a programmer
@@ -51,10 +52,10 @@ I'm a fullstack developer from the Czech republic, passionate about web3, decent
   
 ### Ξ Blockchain development
 - Solidity (junior)
+- Rust (junior)
 - web3.js
 - Moralis
 - Foundry
-- Rust (junior)
 
 ### 🍎 Apple development
 - Swift
@@ -73,6 +74,5 @@ I'm a fullstack developer from the Czech republic, passionate about web3, decent
 | English       | C2 (Cambridge certified)                                                  |
 | Spanish       | B1                                                                        |
 | Czech         | Native language                                                           |
-  
-  </details>
 
+  </details>
