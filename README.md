@@ -1,7 +1,7 @@
 # Hi there :wave:
 
 I'm a fullstack developer from the Czech republic, passionate about web3, decentralization, sustainable energy and more.
-<br/> I work as a senior fullstack web developer at [Moralis Web3](https://moralis.io), study CS at [Prague University of Economics and Business](https://www.vse.cz/english/) and am learning Solidity and Rust.
+<br/> I work as a senior fullstack web developer at [Moralis Web3](https://moralis.io) on the Admin Panel team, study CS at [Prague University of Economics and Business](https://www.vse.cz/english/) and am learning Solidity and Rust.
 
 **[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[ENS](https://atris.eth.link)** - **[OpenSea](https://opensea.io/0x32F8e0361cE2b9Ca84824BC4b446c18F6b2fC183)**
 
@@ -21,13 +21,14 @@ I'm a fullstack developer from the Czech republic, passionate about web3, decent
 
 ## Side-projects
 - [uklid](https://crates.io/crates/uklid) - nuke those huge node_modules folders with an interactive CLI
+- [alphaleek](https://github.com/vacekj/alphaleek) - mint an on-chain GitHub profile (ETHAmsterdam
+- [KryptoKurzy.cz](https://kryptokurzy.cz) - teaching the Czech public about web3
 - Web3Love - send (love) letters on the blockchain 🔜
-- [express-json-validator-middleware](https://github.com/simonplend/express-json-validator-middleware) - creator and former maintainer
+- [express-json-validator-middleware](https://github.com/simonplend/express-json-validator-middleware) - creator and maintainer - 123k downloads / month
 - NeuroCards - like Anki but with great UX and an algo that adapts to your brain 🔜
 - DClutter - know what you own, reduce clutter and track lendings 🔜
 - [Luftio](https://luftio.cz/) SwiftUI App - monitor your air quality on your iPhone, iPad, Mac and Apple Watch.
 - [Timesaver](https://timesaver.vercel.app/) - watch movies faster without losing context
-- [KryptoKurzy.cz](https://kryptokurzy.cz) - teaching the Czech public about web3
 - [Competent Programmer](https://competentprogrammer.vercel.app/) - visualize your competency as a programmer
 
 ## My skills 📜
