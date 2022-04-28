@@ -24,7 +24,7 @@ I'm a fullstack developer from the Czech republic, passionate about web3, decent
 - [alphaleek](https://github.com/vacekj/alphaleek) - mint an on-chain GitHub profile (ETHAmsterdam Hackathon Project]
 - [KryptoKurzy.cz](https://kryptokurzy.cz) - teaching the Czech public about web3
 - Web3Love - send (love) letters on the blockchain 🔜
-- [express-json-validator-middleware](https://github.com/simonplend/express-json-validator-middleware) - creator and maintainer - 123k downloads / month
+- [express-json-validator-middleware](https://github.com/vacekj/express-json-validator-middleware) - creator and maintainer - 123k downloads / month
 - NeuroCards - like Anki but with great UX and an algo that adapts to your brain 🔜
 - DClutter - know what you own, reduce clutter and track lendings 🔜
 - [Luftio](https://luftio.cz/) SwiftUI App - monitor your air quality on your iPhone, iPad, Mac and Apple Watch.
