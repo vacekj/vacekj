@@ -1,7 +1,7 @@
 # Hi there :wave:
 
 I'm a fullstack developer from the Czech republic, passionate about web3, decentralization, sustainable energy and more.
-<br/> I work as a senior fullstack web developer at [Moralis Web3](https://moralis.io) on the Admin Panel team, study CS at [Prague University of Economics and Business](https://www.vse.cz/english/) and am learning Solidity and Rust.
+<br/> I work as a senior fullstack web developer at [Moralis Web3](https://moralis.io) on the Admin Panel team, study CS at [Prague University of Economics and Business](https://www.vse.cz/english/) and am learning Ethereum development and Rust.
 
 **[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[ENS](https://atris.eth.link)** - **[OpenSea](https://opensea.io/0x32F8e0361cE2b9Ca84824BC4b446c18F6b2fC183)**
 
