@@ -22,7 +22,7 @@ I'm a fullstack developer from the Czech republic, passionate about web3, decent
 ## Side-projects
 - [uklid](https://crates.io/crates/uklid) - nuke those huge node_modules folders with an interactive CLI
 - [alphaleek](https://github.com/vacekj/alphaleek) - mint an on-chain GitHub profile (ETHAmsterdam Hackathon Project]
-- [KryptoKurzy.cz](https://kryptokurzy.cz) - teaching the Czech public about web3
+- [KryptoKurzy.cz](https://github.com/vacekj/kryptokurzy) - teaching the Czech public about web3
 - Web3Love - send (love) letters on the blockchain 🔜
 - [express-json-validator-middleware](https://github.com/vacekj/express-json-validator-middleware) - creator and maintainer - 123k downloads / month
 - NeuroCards - like Anki but with great UX and an algo that adapts to your brain 🔜
