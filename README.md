@@ -20,6 +20,7 @@ I'm a fullstack developer from the Czech republic, passionate about web3, decent
 - Teacher absence monitoring system @ biggest grammar school in the Czech Republic
 
 ## Side-projects
+- [awesome rust tooling] - List of Rust-based tools including speedups
 - [Web3Love](https://web3love.vercel.app) - send (love) letters on the blockchain
 - [uklid](https://crates.io/crates/uklid) - nuke those huge node_modules folders with an interactive CLI
 - [alphaleek](https://github.com/vacekj/alphaleek) - mint an on-chain GitHub profile (ETHAmsterdam Hackathon Project)
