@@ -3,7 +3,7 @@
 I'm a fullstack developer from the Czech republic, passionate about web3, decentralization, sustainable energy and more.
 <br/> I work as a fullstack blockchain developer at [Gitcoin DAO](https://gitcoin.co/) on the Grants 2.0 initiative and study Computer Science & Econ at [Prague University of Economics and Business](https://www.vse.cz/english/).
 
-**[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[ENS](atris.eth)** - **[OpenSea](https://opensea.io/0x32F8e0361cE2b9Ca84824BC4b446c18F6b2fC183)**
+**[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[ENS](https://atris.eth.link)** - **[OpenSea](https://opensea.io/0x32F8e0361cE2b9Ca84824BC4b446c18F6b2fC183)**
 
 [![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=vacekj&show_icons=true&line_height=27&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
