@@ -1,16 +1,11 @@
 # Hi there :wave:
 
-I'm a fullstack developer from the Czech republic, passionate about web3, decentralization, sustainable energy and more.
-<br/> I work as a fullstack blockchain developer at [Gitcoin DAO](https://gitcoin.co/) on the Grants 2.0 initiative and study Computer Science & Econ at [Prague University of Economics and Business](https://www.vse.cz/english/).
+I'm a fullstack blockchain developer from the Czech Republic, passionate about web3, decentralization, freedom, privacy and security.
+<br/> I work as a fullstack blockchain developer at [Gitcoin](https://gitcoin.co/) on the Grants 2.0 initiative and study Computer Science & Econ at [Prague University of Economics and Business](https://www.vse.cz/english/).
 
-**[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[ENS](https://atris.eth.link)** - **[OpenSea](https://opensea.io/0x32F8e0361cE2b9Ca84824BC4b446c18F6b2fC183)**
+**[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)**
 
 [![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=vacekj&show_icons=true&line_height=27&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
-<details>
-  <summary> Click for more</summary>
 
 ## Employment history
 - Forest trees auctioned off as NFTs @ [Decentree](https://decentree.com).
@@ -32,52 +27,10 @@ I'm a fullstack developer from the Czech republic, passionate about web3, decent
 - [Timesaver](https://timesaver.vercel.app/) - watch movies faster without losing context
 - [Competent Programmer](https://competentprogrammer.vercel.app/) - visualize your competency as a programmer
 
-## My skills 📜
-
-### 🕸 Web stack
-- Typescript
-- Next.js
-- Nest.js
-- Prisma
-- Firebase
-- Supabase
-- Strapi
-- React
-- Redux
-- Styled Components
-- Cypress
-- Puppeteer
-- Node.js
-- Deno
-- MySQL
-- Postgres
-- SQL
-- TailwindCSS
-  
-### Ξ Blockchain development
-- Solidity (junior)
-- Rust (junior)
-- web3.js
-- ethers.js
-- Moralis
-- Foundry
-
-### 🍎 Apple development
-- Swift
-- SwiftUI
-  
-### Misc
-- Advanced Git
-- Unix admininistration
-- Dokku
-- C#
-
-### Spoken languages 🌍
+### Languages 🌍
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English       | C2 (Cambridge certified)                                                  |
 | Spanish       | B1                                                                        |
-| Czech         | Native language                                                           |
-
-  </details>
+| Czech         | Native                                                                    |
