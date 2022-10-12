@@ -8,6 +8,7 @@ I'm a fullstack blockchain developer from the Czech Republic, passionate about w
 [![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=vacekj&show_icons=true&line_height=27&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Employment history
+- Fullstack Web Developer @ [Moralis Web3](https://moralis.io)
 - Forest trees auctioned off as NFTs @ [Decentree](https://decentree.com).
 - Extensible Google Drive clone used by AWS, US Navy @ [3PillarGlobal](https://www.3pillarglobal.com/)
 - Student->Teacher rating system @ [Abradatas](https://abradatas.cz/)
