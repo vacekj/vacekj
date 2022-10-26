@@ -16,6 +16,7 @@ I'm a fullstack blockchain developer from the Czech Republic, passionate about w
 - Teacher absence monitoring system @ biggest grammar school in the Czech Republic
 
 ## Side-projects
+- [RegenScore](https://regenscore.vercel.app/)
 - [awesome rust tooling](https://github.com/vacekj/awesome-rust-tooling) - List of Rust-based tools including speedups
 - [Web3Love](https://web3love.vercel.app) - send (love) letters on the blockchain
 - [uklid](https://crates.io/crates/uklid) - nuke those huge node_modules folders with an interactive CLI
