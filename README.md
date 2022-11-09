@@ -7,14 +7,6 @@ I'm a fullstack blockchain developer from the Czech Republic, passionate about w
 
 [![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=vacekj&show_icons=true&line_height=27&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Employment history
-- Fullstack Web Developer @ [Moralis Web3](https://moralis.io)
-- Forest trees auctioned off as NFTs @ [Decentree](https://decentree.com).
-- Extensible Google Drive clone used by AWS, US Navy @ [3PillarGlobal](https://www.3pillarglobal.com/)
-- Student->Teacher rating system @ [Abradatas](https://abradatas.cz/)
-- Instagram Private API data scraping and processing system @ emilia.digital
-- Teacher absence monitoring system @ biggest grammar school in the Czech Republic
-
 ## Side-projects
 - [RegenScore](https://regenscore.vercel.app/)
 - [awesome rust tooling](https://github.com/vacekj/awesome-rust-tooling) - List of Rust-based tools including speedups
@@ -28,11 +20,3 @@ I'm a fullstack blockchain developer from the Czech Republic, passionate about w
 - [Luftio](https://luftio.cz/) SwiftUI App - monitor your air quality on your iPhone, iPad, Mac and Apple Watch.
 - [Timesaver](https://timesaver.vercel.app/) - watch movies faster without losing context
 - [Competent Programmer](https://competentprogrammer.vercel.app/) - visualize your competency as a programmer
-
-### Languages 🌍
-
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English       | C2 (Cambridge certified)                                                  |
-| Spanish       | B1                                                                        |
-| Czech         | Native                                                                    |
