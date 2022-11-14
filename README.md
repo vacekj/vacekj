@@ -8,7 +8,8 @@ I'm a fullstack blockchain developer from the Czech Republic, passionate about w
 [![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=vacekj&show_icons=true&line_height=27&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Side-projects
-- [RegenScore](https://regenscore.vercel.app/)
+- [Azero.domains](https://github.com/wottpal/azero.domains) - On-chain domain names for Aleph Zero (EthWarsaw 1st Place)
+- [RegenScore](https://regenscore.vercel.app/) - showcase your Regen on-chain activity (EthNewYork Hackathon Project)
 - [awesome rust tooling](https://github.com/vacekj/awesome-rust-tooling) - List of Rust-based tools including speedups
 - [Web3Love](https://web3love.vercel.app) - send (love) letters on the blockchain
 - [uklid](https://crates.io/crates/uklid) - nuke those huge node_modules folders with an interactive CLI
