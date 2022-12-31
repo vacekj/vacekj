@@ -22,3 +22,5 @@ I'm a fullstack blockchain developer from the Czech Republic, passionate about w
 - [Luftio](https://luftio.cz/) SwiftUI App - monitor your air quality on your iPhone, iPad, Mac and Apple Watch.
 - [Timesaver](https://timesaver.vercel.app/) - watch movies faster without losing context
 - [Competent Programmer](https://competentprogrammer.vercel.app/) - visualize your competency as a programmer
+
+Happy new years!
