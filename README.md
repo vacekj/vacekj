@@ -1,7 +1,7 @@
 # Hi there :wave:
 
 I'm a fullstack blockchain developer from the Czech Republic, passionate about web3, decentralization, freedom, privacy and security.
-<br/> I work as a fullstack blockchain developer at [Gitcoin](https://gitcoin.co/) and study Computer Science & Econ at [Prague University of Economics and Business](https://www.vse.cz/english/).
+<br/> I work as a fullstack blockchain developer at [Gitcoin](https://gitcoin.co/).
 
 **[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)**
 
