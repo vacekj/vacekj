@@ -1,4 +1,4 @@
-Full-stack developer from the Czech Republic. Topics I'm interested in: agorism, public goods funding, effective governance systems
+Full-stack developer from the Czech Republic. Topics I'm interested in: privacy, security, agorism, public goods funding, effective governance systems
 <br/> I work at [GitcoinDAO](https://gitcoin.co/) on the [Grants Stack](https://www.gitcoin.co/grants-stack).
 
 **[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)**
