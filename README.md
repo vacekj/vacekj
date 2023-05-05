@@ -3,8 +3,6 @@ Full-stack developer from the Czech Republic. Topics I'm interested in: privacy,
 
 **[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)**
 
-[![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=vacekj&show_icons=true&line_height=27&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Side-projects
 - [keycheck](https://github.com/vacekj/keycheck) - Avoid leaking private keys to git
 - [uklid](https://crates.io/crates/uklid) - remove huge node_modules folders with an interactive CLI
