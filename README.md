@@ -1,7 +1,7 @@
 Full-stack developer from the Czech Republic. Topics I'm interested in: privacy, security, agorism, public goods funding, effective governance systems
 <br/> I work at [GitcoinDAO](https://gitcoin.co/) on the [Grants Stack](https://www.gitcoin.co/grants-stack).
 
-**[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)**
+**[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[Website](atris.cc)**
 
 ## Side-projects
 - [keycheck](https://github.com/vacekj/keycheck) - Avoid leaking private keys to git
