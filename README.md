@@ -1,4 +1,4 @@
-Senior full-stack engineer from the Czech Republic. Topics I'm interested in: privacy, security, agorism, non-coercive public goods funding, effective governance systems
+Senior full-stack engineer from the Czech Republic. Topics I'm interested in: privacy, security, agorism, zk, cryptography, infra, performant software, Rust & low-level engineering.
 <br/> I work at [Gitcoin](https://gitcoin.co/) on the [Grants Stack](https://www.gitcoin.co/grants-stack).
 <br/> I also co-founded [RegenScore](https://github.com/vacekj/regenscore)
 
