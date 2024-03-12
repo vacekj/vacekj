@@ -19,9 +19,8 @@ Senior full-stack engineer from the Czech Republic. Topics I'm interested in: pr
 
 ## Learning in public
 - [Rusting Interpreters](https://github.com/vacekj/rusting-interpreters)
-- [Rustlings](https://github.com/vacekj/rustlings)
-- [Web Platform Exploration](https://github.com/vacekj/web-exploration)
-- [Rust by example](https://github.com/vacekj/rust-by-example)
-- [Rust book](https://github.com/vacekj/rustbook)
+- [Rustlings](https://github.com/vacekj/rustlings) ✅
+- [Rust by example](https://github.com/vacekj/rust-by-example) ✅
+- [Rust book](https://github.com/vacekj/rustbook) ✅
 - [Cryptography](https://github.com/vacekj/crypto)
 
