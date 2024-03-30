@@ -1,5 +1,4 @@
-Senior full-stack engineer from the Czech Republic. Topics I'm interested in: privacy, security, agorism, zk, cryptography, infra, performant software, Rust & low-level engineering.
-<br/> I work at [Gitcoin](https://gitcoin.co/) on the [Grants Stack](https://www.gitcoin.co/grants-stack).
+Senior full-stack engineer from the Czech Republic. Currently focused on ZK & Rust.
 <br/> I also co-founded [RegenScore](https://github.com/vacekj/regenscore)
 
 **[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[Website](https://atris.cc)**
