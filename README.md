@@ -7,7 +7,7 @@ Senior full-stack engineer from the Czech Republic. Currently focused on ZK & Ru
 - [wagmi-permit](https://github.com/vacekj/wagmi-permit) - Sign ERC2612 Permits effortlessly
 - [pluralistic-rs](https://github.com/vacekj/pluralisticrs) - Rust library for pluralistic calculations
 - [Listen to Ethereum](https://github.com/vacekj/listen-to-ethereum) - Generative music based on the Ethereum blockchain & mempool
-- [Locot](https://github.com/vacekj/locot) - See the evolution of lines of codes for a Git repo
+- [Locot](https://github.com/vacekj/locot) - See the evolution of lines of code for a Git repo
 - [keycheck](https://github.com/vacekj/keycheck) - Avoid leaking private keys to git
 - [uklid](https://crates.io/crates/uklid) - remove huge node_modules folders with an interactive CLI
 - [Azero.domains](https://github.com/wottpal/azero.domains) - On-chain domain names for Aleph Zero (EthWarsaw 1st Place 🥇)
