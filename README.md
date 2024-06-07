@@ -1,7 +1,7 @@
 Senior full-stack engineer from the Czech Republic. Currently focused on ZK & Rust.
 <br/> I also co-founded [RegenScore](https://github.com/vacekj/regenscore)
 
-**[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[Website](https://atris.cc)**
+**[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[Blog](https://josefv.bearblog.dev/)** **[Website](https://atris.cc)**
 
 ## Building in public
 - [wagmi-permit](https://github.com/vacekj/wagmi-permit) - Sign ERC2612 Permits effortlessly
