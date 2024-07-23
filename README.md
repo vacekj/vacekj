@@ -1,6 +1,6 @@
 Senior SWE from the Czech Republic. Currently focused on ZK & Rust.
 
-**[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[Blog](https://josefv.bearblog.dev/)** **[Website](https://atris.cc)**
+**[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[Blog](https://josefv.bearblog.dev/)** - **[Website](https://atris.cc)**
 
 ## Building in public
 - [wagmi-permit](https://github.com/vacekj/wagmi-permit) - Sign ERC2612 Permits effortlessly
