@@ -1,4 +1,4 @@
-Senior SWE from the Czech Republic. Currently focused on ZK & Rust.
+Senior SWE from the Czech Republic, angel investor in technology advancing the freedom and capabilities of humanity.
 
 **[Twitter](https://twitter.com/atris_eth)** - **[Telegram](https://t.me/vacekj)** - **[Blog](https://josefv.bearblog.dev/)** - **[Website](https://atris.cc)**
 
