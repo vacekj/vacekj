@@ -1,5 +1,5 @@
 Ahoj! I'm Josef, a senior SWE & angel investor from the Czech Republic.
-- I help you breathe better with [AirSafe](https://airsafe.health) and research Czech companies and people at [proklep.cz](https://app.proklep.cz)
+- I help you breathe better with [AirSafe](https://airsafe.health), skip busywork with [omnition.xyz](https://omnition.xyz) and research Czech companies and people at [proklep.cz](https://app.proklep.cz)
 - I also angel invest in technology that advances the freedom and capabilities of humanity, mostly crypto and AI.
 - I have a **[Blog](https://atris.cc/#blog)** and **[Website](https://atris.cc)**
 - For updates, follow me on **[X](https://x.com/atris_eth)**
