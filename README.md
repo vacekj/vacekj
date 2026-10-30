@@ -6,11 +6,12 @@ Ahoj! I'm Josef, a senior SWE & angel investor from the Czech Republic.
 - Contact me on **[Telegram](https://t.me/vacekj)**
 
 ## Projects & contributions
+- [express-json-validator-middleware](https://www.npmjs.com/package/express-json-validator-middleware) - a widely used express validation library I made when I was 17, 1M+ downloads/year
+- Won the Chewing Glass Prize at ZK Hack Kraków 2024 by building a STARK (Plonky3) proving backend for the Noir zk-DSL with my teammates.
 - Contributed to [Reth](htps://reth.rs), making op-reth work with OP Mainnet
 - Made [wagmi-permit](https://github.com/vacekj/wagmi-permit) to sign ERC2612 permits with ease
 - [Listen to Ethereum](https://github.com/vacekj/listen-to-ethereum) - Generative music based on the Ethereum blockchain & mempool
 - Co-founded Nameverse, which was born out of [Azero.domains](https://github.com/wottpal/azero.domains) - On-chain domain names for Aleph Zero project that won 1st Place 🥇 at the EthWarsaw hackathon
 - [LibertApp](https://github.com/vacekj/libertapp) - 1-click uncensored DeFi frontends (EthBerlin Hackathon Project)
-- [express-json-validator-middleware](https://www.npmjs.com/package/express-json-validator-middleware) - a widely used express validation library I made when I was 17
 
 [check out my repositories for more](https://github.com/vacekj?tab=repositories&type=source)
